@@ -1,0 +1,9 @@
+CREATE TABLE item (
+item_numb int,
+title varchar(60),
+distributor_numb int,
+retail_price numberic(6,2),,
+release_date date,
+genre char(15)
+);
+
