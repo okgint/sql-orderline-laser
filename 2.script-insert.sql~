@@ -1,4 +1,0 @@
-insert into distributor values(1, 'Distributor1', 'distributor Jln 1',
-       'jakarta', 'sl', '12430', '021-7664269', 'Andika', 'ext21');
-
-
